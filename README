@@ -2,8 +2,7 @@
 I chose to use python because I know better its libraries, I used 'os' before for my personal project (but
 not as "complex" as here, I am sure more sofisticated can be done), whereas in C++, I used it for OOP.
 
-  I created a function "sync" to perform create/update/add/remove operations (even if it wasn't mentioned in 
-the task, if the folder doesn't exist it will create one).
+  I created a function "sync" to perform create/update/add/remove operations.
 Based on the demand (update remove etc. ) it will print the message and it will be written in the log file.
 I didn't know exactly where log file should be, but even if it is in 'mainfolder' or outside it it will work perfectly. 
 I ran into a case where updating files was before writing in log file and it kept updating but I solved it. 
