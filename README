@@ -7,7 +7,7 @@ the task, if the folder doesn't exist it will create one).
 Based on the demand (update remove etc. ) it will print the message and it will be written in the log file.
 I didn't know exactly where log file should be, but even if it is in 'mainfolder' or outside it it will work perfectly. 
 I ran into a case where updating files was before writing in log file and it kept updating but I solved it. 
-I chose to implement apscheduler because I knew about it  but I didn't have the opportunity to use it in my personal project 
+I chose to implement apscheduler because I knew about it but I didn't have the opportunity to use it in my personal project 
 yet, and I found it interesting to use it here.
 .
 .
